@@ -1,6 +1,7 @@
 # Implementation of QuickHull Algorithm and CCW (Counter-Clockwise) Algorithm
 ### https://en.wikipedia.org/wiki/Quickhull
 
+## CCW
 INPUT:
 
 The first line of the input contains one integer n, the number of test cases for CCW.
@@ -25,7 +26,7 @@ Print m lines with m answers to the line segment intersection test cases in each
 
 
 
----------- Problem 3 ----------
+## QuickHull
 
 INPUT:
 

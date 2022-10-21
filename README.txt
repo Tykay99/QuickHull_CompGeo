@@ -1,7 +1,4 @@
-For simplicity assume all m, n in (0, 10000), all floating point numbers in (-10000, 10000).
-
-
----------- Problem 2 ----------
+#Implementation of QuickHull Algorithm and CCW algorithm
 
 INPUT:
 

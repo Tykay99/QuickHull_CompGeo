@@ -1,4 +1,5 @@
-# Implementation of QuickHull Algorithm and CCW algorithm
+# Implementation of QuickHull Algorithm and CCW (Counter-Clockwise) Algorithm
+### https://en.wikipedia.org/wiki/Quickhull
 
 INPUT:
 
